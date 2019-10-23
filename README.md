@@ -6,8 +6,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Production on Github 
-Visit   https://cmlbrnc.github.io/following-app/ 
+## Production on Github && Firebase
+Visit   https://cmlbrnc.github.io/following-app/  or https://following-app-908c8.firebaseapp.com
 
 ## Code scaffolding
 
